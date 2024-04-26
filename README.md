@@ -1,5 +1,4 @@
 - Swansea University CompSci student
-- New to programming, would like to learn more.
 
 
 
